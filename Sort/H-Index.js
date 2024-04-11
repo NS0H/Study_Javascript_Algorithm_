@@ -44,5 +44,3 @@ console.log(solution([3, 0, 6, 1, 5])); // 3
 console.log(solution([1, 10, 11])); // 2
 console.log(solution([10, 11])); // 2
 console.log(solution([0, 0, 0, 0, 0])); // 0
-
-// 사실 문제 이해는 제대로 못했는데.. "h번 이하"는 신경쓰지 않아도 된다는 힌트만 보고 했습니다

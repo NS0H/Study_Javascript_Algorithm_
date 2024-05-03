@@ -17,7 +17,7 @@ const readline = require('readline');
 
 const rl = readline.createInterface({
 	input: process.stdin,
-	coutput: process.stdout
+	output: process.stdout
 });
 
 let N;
@@ -41,4 +41,4 @@ rl.on('line', (input) => {
 		
 		rl.close();
 	}
-})
+});
